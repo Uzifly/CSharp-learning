@@ -1,0 +1,15 @@
+/Users/evgeniu/Desktop/Education/CSharpEdu/Lesson1HelloConsole/bin/Debug/net6.0/Lesson1HelloConsole
+/Users/evgeniu/Desktop/Education/CSharpEdu/Lesson1HelloConsole/bin/Debug/net6.0/Lesson1HelloConsole.deps.json
+/Users/evgeniu/Desktop/Education/CSharpEdu/Lesson1HelloConsole/bin/Debug/net6.0/Lesson1HelloConsole.runtimeconfig.json
+/Users/evgeniu/Desktop/Education/CSharpEdu/Lesson1HelloConsole/bin/Debug/net6.0/Lesson1HelloConsole.dll
+/Users/evgeniu/Desktop/Education/CSharpEdu/Lesson1HelloConsole/bin/Debug/net6.0/Lesson1HelloConsole.pdb
+/Users/evgeniu/Desktop/Education/CSharpEdu/Lesson1HelloConsole/obj/Debug/net6.0/Lesson1HelloConsole.csproj.AssemblyReference.cache
+/Users/evgeniu/Desktop/Education/CSharpEdu/Lesson1HelloConsole/obj/Debug/net6.0/Lesson1HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgeniu/Desktop/Education/CSharpEdu/Lesson1HelloConsole/obj/Debug/net6.0/Lesson1HelloConsole.AssemblyInfoInputs.cache
+/Users/evgeniu/Desktop/Education/CSharpEdu/Lesson1HelloConsole/obj/Debug/net6.0/Lesson1HelloConsole.AssemblyInfo.cs
+/Users/evgeniu/Desktop/Education/CSharpEdu/Lesson1HelloConsole/obj/Debug/net6.0/Lesson1HelloConsole.csproj.CoreCompileInputs.cache
+/Users/evgeniu/Desktop/Education/CSharpEdu/Lesson1HelloConsole/obj/Debug/net6.0/Lesson1HelloConsole.dll
+/Users/evgeniu/Desktop/Education/CSharpEdu/Lesson1HelloConsole/obj/Debug/net6.0/refint/Lesson1HelloConsole.dll
+/Users/evgeniu/Desktop/Education/CSharpEdu/Lesson1HelloConsole/obj/Debug/net6.0/Lesson1HelloConsole.pdb
+/Users/evgeniu/Desktop/Education/CSharpEdu/Lesson1HelloConsole/obj/Debug/net6.0/Lesson1HelloConsole.genruntimeconfig.cache
+/Users/evgeniu/Desktop/Education/CSharpEdu/Lesson1HelloConsole/obj/Debug/net6.0/ref/Lesson1HelloConsole.dll
