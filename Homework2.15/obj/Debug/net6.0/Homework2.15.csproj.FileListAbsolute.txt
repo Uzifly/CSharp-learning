@@ -1,0 +1,15 @@
+/Users/evgeniu/Desktop/Education/CSharpEdu/Homework2.15/bin/Debug/net6.0/Homework2.15
+/Users/evgeniu/Desktop/Education/CSharpEdu/Homework2.15/bin/Debug/net6.0/Homework2.15.deps.json
+/Users/evgeniu/Desktop/Education/CSharpEdu/Homework2.15/bin/Debug/net6.0/Homework2.15.runtimeconfig.json
+/Users/evgeniu/Desktop/Education/CSharpEdu/Homework2.15/bin/Debug/net6.0/Homework2.15.dll
+/Users/evgeniu/Desktop/Education/CSharpEdu/Homework2.15/bin/Debug/net6.0/Homework2.15.pdb
+/Users/evgeniu/Desktop/Education/CSharpEdu/Homework2.15/obj/Debug/net6.0/Homework2.15.csproj.AssemblyReference.cache
+/Users/evgeniu/Desktop/Education/CSharpEdu/Homework2.15/obj/Debug/net6.0/Homework2.15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/evgeniu/Desktop/Education/CSharpEdu/Homework2.15/obj/Debug/net6.0/Homework2.15.AssemblyInfoInputs.cache
+/Users/evgeniu/Desktop/Education/CSharpEdu/Homework2.15/obj/Debug/net6.0/Homework2.15.AssemblyInfo.cs
+/Users/evgeniu/Desktop/Education/CSharpEdu/Homework2.15/obj/Debug/net6.0/Homework2.15.csproj.CoreCompileInputs.cache
+/Users/evgeniu/Desktop/Education/CSharpEdu/Homework2.15/obj/Debug/net6.0/Homework2.15.dll
+/Users/evgeniu/Desktop/Education/CSharpEdu/Homework2.15/obj/Debug/net6.0/refint/Homework2.15.dll
+/Users/evgeniu/Desktop/Education/CSharpEdu/Homework2.15/obj/Debug/net6.0/Homework2.15.pdb
+/Users/evgeniu/Desktop/Education/CSharpEdu/Homework2.15/obj/Debug/net6.0/Homework2.15.genruntimeconfig.cache
+/Users/evgeniu/Desktop/Education/CSharpEdu/Homework2.15/obj/Debug/net6.0/ref/Homework2.15.dll
