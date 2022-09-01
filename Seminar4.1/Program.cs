@@ -7,7 +7,7 @@ class Program
         //константы 
         const int arrSize = 8;
         const int min = 0;
-        const int max = 2; //генерация до указанного значения
+        const int max = 10000; //генерация до указанного значения
 
         int[] array = new int[arrSize];
 
