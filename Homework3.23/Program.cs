@@ -8,6 +8,9 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Введите N");
+        int n = Convert.ToInt32(System.Console.ReadLine());
+        for (int i = 1; i < n+1; i++)
+            System.Console.WriteLine(Math.Pow(i, 3));
     }
 }

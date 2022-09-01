@@ -6,21 +6,32 @@
 namespace Homework3._21;
 class Program
 {
-    static int[] GetPoints(String message)
+    static int[] Get3DPoints(String message)
     {
         int[] array = new int[3];
         System.Console.WriteLine(message);
-        foreach (int i in array)
-        {
-            array[i] = Try(System.Console.Read());
-        }
-            //array[i] = Convert.ToInt16(System.Console.Read());
+        for(int i = 0; i < array.Length; i++)
+            array[i] = Convert.ToInt32(System.Console.ReadLine());
         return array;
+    }
+
+    static double Get3dPointDistance(int[] pA, int[] pB)
+    {
+        double dist = 0;
+        if (pA.Length == pB.Length)
+        {
+            for (int i = 0; i < pA.Length; i++)
+                dist += Math.Pow((pA[i] + pB[i]), 2);
+            dist = Math.Sqrt(dist);
+        }
+        return dist;
     }
 
     static void Main(string[] args)
     {
-        int[] pointA = GetPoints("Введите координаты точки А");
-        Console.WriteLine("Hello, World!");
+        int[] pointA = Get3DPoints("Введите координаты точки А");
+        int[] pointB = Get3DPoints("Введите координаты точки B");
+        double distance = Get3dPointDistance(pointA, pointB);
+        System.Console.WriteLine($"расстояние между точками = {distance}");
     }
 }
