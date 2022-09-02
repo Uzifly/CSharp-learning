@@ -1,4 +1,10 @@
-﻿namespace Homework4._27;
+﻿/*
+* Задача 27: Напишите программу, которая принимает на вход число и выдаёт сумму цифр в числе.
+* 452 -> 11
+* 82 -> 10
+* 9012 -> 12
+*/
+namespace Homework4._27;
 class Program
 {
     static int GetSumDigit(int number)
