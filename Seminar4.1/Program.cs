@@ -1,6 +1,23 @@
 ﻿namespace Seminar4._1;
 class Program
 {
+    //заполнение массиа
+    static void FillArrRand(int[] array, int min, int max)
+    {
+        for (int i = 0; i < array.Length; i++)
+        {
+            array[i] = new Random().Next(min, max);
+        }
+    }
+
+    //печать массива
+    static void PrintArray(int[] array)
+    {
+        for (int i = 0; i < array.Length; i++)
+        {
+            System.Console.Write($"{array[i]}, ");
+        }
+    }
 
     static void Main(string[] args)
     {
@@ -13,24 +30,5 @@ class Program
 
         FillArrRand(array, min, max);
         PrintArray(array);
-
-        //заполнение массиа
-        void FillArrRand(int[] array, int min, int max)
-        {
-            for (int i = 0; i < array.Length; i++)
-            {
-                array[i] = new Random().Next(min, max);
-            }
-        }
-
-        //печать массива
-
-        void PrintArray(int[] array)
-        {
-            for (int i = 0; i < array.Length; i++)
-            {
-                System.Console.Write($"{array[i]}, ");
-            }
-        }
     }
 }
