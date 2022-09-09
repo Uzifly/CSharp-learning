@@ -21,7 +21,7 @@ class Program
         if (pA.Length == pB.Length)
         {
             for (int i = 0; i < pA.Length; i++)
-                dist += Math.Pow((pA[i] + pB[i]), 2);
+                dist += Math.Pow((pA[i] - pB[i]), 2);
             dist = Math.Sqrt(dist);
         }
         return dist;
