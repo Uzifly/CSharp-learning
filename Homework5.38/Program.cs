@@ -26,8 +26,4 @@ class Program
         }
         return array;
     }
-
-    // поиск макс мин
-
-    //возрат разницы
 }
